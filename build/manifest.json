@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Search",
+  "version": "1.0",
+  "description": "Marvel Search Tab",
+  "author": "Ashim Mahajan",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "permissions": [
+    "storage"
+  ],
+  "short_name": "React App",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "icons": {
+    "16": "./AVN_logo.png",
+    "48": "AVN_logo.png",
+    "128": "./AVN_logo.png"
+  }
+}

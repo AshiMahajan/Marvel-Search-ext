@@ -1,0 +1,60 @@
+/* Body */
+#app{
+  background-image: url('./marvel.jpg');
+  min-height: 100vh;
+}
+
+/* For Date and Time */
+#clock {
+  font-family: 'Marvel', sans-serif;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+  color: rgb(180, 220, 235);
+}
+
+#date {
+  font-family: 'Acme', sans-serif;
+  font-variant: petite-caps;
+  color: lavender;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+}
+
+/* Search Bar */
+#search-input {
+  border: 1.5px solid #f40a0ae1;
+  font-family: 'Sansita Swashed', cursive;
+  letter-spacing: 1px;
+  font-size: 20px;
+  /* color: rgb(0, 0, 0); */
+  color: rgb(241, 119, 32);
+  transition: transform 0.7s ease-in-out, border-color 0.7s ease-in-out, box-shadow 0.7s ease-in-out;
+}
+#search-input::placeholder {
+  color: rgb(255, 255, 255);
+  font-family: 'Lemonada', cursive;
+  font-size: 18px;
+}
+#search-input:hover {
+  border-color: rgb(1, 46, 180);
+  transform: scale(1.03);
+}
+
+/* Drop Down Icon  */
+.icons-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
+  margin-top: 35px; 
+}
+
+.icon-button{
+  text-align: -webkit-center;
+}
+
+.icons {
+  width: 80%;
+  height: 60%;
+  margin: 10px;
+}
