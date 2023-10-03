@@ -2,6 +2,12 @@
 #app{
   background-image: url('./marvel.jpg');
   min-height: 100vh;
+  -webkit-touch-callout: none; 
+    -webkit-user-select: none;    
+     -khtml-user-select: none;
+       -moz-user-select: none; 
+        -ms-user-select: none; 
+            user-select: none;
 }
 
 /* For Date and Time */
