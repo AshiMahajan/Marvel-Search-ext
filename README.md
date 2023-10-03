@@ -1,4 +1,4 @@
-[build.zip](https://github.com/AshiMahajan/Marvel-Search-ext/files/12789250/build.zip)# Marvel Search Extension
+Marvel Search Extension
 
 <div align="justify" markdown="1">
 
@@ -14,7 +14,7 @@ First, download the extension by clicking the button below:
 
 <div align="center" markdown="1">
 
-[![Download Extension](https://github.com/AshiMahajan/Marvel-Search-ext/files/12789262/Marvel-ext.zip)
+[![Download Extension](https://github.com/AshiMahajan/Marvel-Search-ext/files/12789735/Marvel-ext.zip)
 
 </div>
 
