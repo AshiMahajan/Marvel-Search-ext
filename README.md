@@ -1,4 +1,4 @@
-# Marvel Search Extension
+[build.zip](https://github.com/AshiMahajan/Marvel-Search-ext/files/12789250/build.zip)# Marvel Search Extension
 
 <div align="justify" markdown="1">
 
@@ -13,8 +13,8 @@ If you're a Marvel enthusiast and want to enhance your web browsing experience, 
 First, download the extension by clicking the button below:
 
 <div align="center" markdown="1">
-  
-[![Download Extension](<img width="64" height="64" src="https://img.icons8.com/cute-clipart/64/downloading-updates.png" alt="downloading-updates"/>)](https://example.com/extension.zip)
+
+[![Download Extension](https://github.com/AshiMahajan/Marvel-Search-ext/files/12789262/Marvel-ext.zip)
 
 </div>
 
