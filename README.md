@@ -1,4 +1,4 @@
-[build.zip](https://github.com/AshiMahajan/Marvel-Search-ext/files/12789250/build.zip)# Marvel Search Extension
+Marvel Search Extension
 
 <div align="justify" markdown="1">
 
