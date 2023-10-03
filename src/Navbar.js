@@ -78,7 +78,7 @@ function Navbar() {
             className="icon-button"
             onClick={() =>
               changeBackground(
-                "https://user-images.githubusercontent.com/105070892/270771812-6bb7d891-2292-4a9a-989f-c7234f617b32.jpg"
+                "https://user-images.githubusercontent.com/105070892/272177300-bb4f3249-9626-4735-bb8c-6ec4607121ea.jpg"
               )
             }
           >
@@ -88,7 +88,7 @@ function Navbar() {
             className="icon-button"
             onClick={() =>
               changeBackground(
-                "https://user-images.githubusercontent.com/105070892/270772158-c836b74a-74bd-4f39-92b1-b6dbf9e24026.jpg"
+                "https://user-images.githubusercontent.com/105070892/272175254-b09fbbc9-8db5-4d13-bc96-e9da713c43bb.jpg"
               )
             }
           >
@@ -98,7 +98,7 @@ function Navbar() {
             className="icon-button"
             onClick={() =>
               changeBackground(
-                "https://user-images.githubusercontent.com/105070892/270772746-ccebb7b6-a897-46b1-8da6-66ec6bcac0ce.jpg"
+                "https://user-images.githubusercontent.com/105070892/272177557-73334718-e532-4f93-acbd-e5e87d6a2d5a.jpg"
               )
             }
           >
@@ -108,7 +108,7 @@ function Navbar() {
             className="icon-button"
             onClick={() =>
               changeBackground(
-                "https://user-images.githubusercontent.com/105070892/270771506-aa17ca57-0da1-4e05-b94e-8831e95e2d55.jpg"
+                "https://user-images.githubusercontent.com/105070892/272176765-4625d381-c144-4778-8f27-c0014c04e7ef.jpg"
               )
             }
           >
