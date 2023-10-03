@@ -13,8 +13,9 @@ If you're a Marvel enthusiast and want to enhance your web browsing experience, 
 First, download the extension by clicking the button below:
 
 <div align="center" markdown="1">
-  
-[Marvel-Extension.zip]([https://github.com/AshiMahajan/Marvel-Search-Extension/files/12705731/Search.zip](https://github.com/AshiMahajan/Marvel-Search-ext/files/12788749/Marvel-ext.zip))
+
+
+[![Download Extension](https://github.com/AshiMahajan/Marvel-Search-ext/files/12788749/Marvel-ext.zip)
 
 </div>
 
