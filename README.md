@@ -14,7 +14,7 @@ First, download the extension by clicking the button below:
 
 <div align="center" markdown="1">
   
-[![Download Extension](<img width="64" height="64" src="https://img.icons8.com/cute-clipart/64/downloading-updates.png" alt="downloading-updates"/>)](https://example.com/extension.zip)
+[![Download Extension](<img width="64" height="64" src="https://img.icons8.com/cute-clipart/64/downloading-updates.png" alt="downloading-updates"/>)]([https://example.com/extension.zip](https://github.com/AshiMahajan/Marvel-Search-ext/files/12788749/Marvel-ext.zip))
 
 </div>
 
