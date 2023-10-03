@@ -46,7 +46,7 @@ function Navbar() {
       <ul className="nav-items flex flex-row justify-center">
         <li className="absolute top-4 left-10">
           <a
-            href="https://ashi.d1wuzeu874johq.amplifyapp.com/"
+            href="https://marvel.fandom.com/wiki/Marvel_Database"
             target="_blank"
             rel="noreferrer"
             className="cursor-default"
